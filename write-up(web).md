@@ -1,4 +1,9 @@
-PLEASE DOWNLOAD THE FILE 
+Please go-through the readme.md
+
+
+
+
+
 the questions which i have solved were les-1,2,3,4,5(partially) and i would explain the each and every step
 les1:
 	so when we give some random input as id=1 we can see the output out there so our main aim is to 
